@@ -1,0 +1,7 @@
+Practice Exercise 4
+
+1 - Launch new browser
+2 - Open URL https://itera-qa.azurewebsites.net/home/automation
+3 - Select the Radio button (2 years) for category Years of experience in test automation (Find elements by using Xpath method.)
+4 - Check the Check Box ‘Selenium Webdriver’ and TestNG for category ‘Which automation tools/frameworks do you use?'(Find elements by using Xpath method)
+5 - Close browser

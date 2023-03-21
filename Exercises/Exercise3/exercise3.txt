@@ -1,0 +1,6 @@
+Practice Exercise 3
+
+1 - Launch new browser
+2 - Open URL https://itera-qa.azurewebsites.net/home/automation
+3 - Select the "Norway" from for category "Where do you plan to travel this year?" (Use select method.)
+4 - Close browser
